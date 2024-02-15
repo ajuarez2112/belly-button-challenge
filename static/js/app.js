@@ -152,8 +152,8 @@ function updatePlotly(sample, data) {
 
     // Create gauge layout
     var gaugeLayout = {
-        width: 600,
-        height: 400,
+        width: 500,
+        height: 450,
     };
 
     // Render the plot to the div tag with id "gauge"
